@@ -1,2 +1,2 @@
-# Testnet-AMM for testing ZooHarmony
-zoo-harmony.com
+# Simple AMM for testing ZooHarmony on harmony testnet
+
