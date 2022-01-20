@@ -99,7 +99,7 @@
             "symbol": "ZOO",
             "name": "Zoo Harmony",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/Testnet-AMM/main/zoo.png"
         },
         {
             "chainId": 1666700000,
