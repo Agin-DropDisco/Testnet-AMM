@@ -1,5 +1,5 @@
 {
-    "name": "DexSwapZoo Testnet",
+    "name": "DexSwap",
     "timestamp": "2022-01-12T14:08:12.260Z",
     "version": {
         "major": 5,
@@ -92,6 +92,38 @@
             "name": "Wrapped ONE",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+        },
+        {
+            "chainId": 1666700000,
+            "address": "0xBEd7149EeE1AA6aF70626a51a6e5A6Ad6678e189",
+            "symbol": "ZOO",
+            "name": "Zoo Harmony",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/main/zoo.png"
+        },
+        {
+            "chainId": 1666700000,
+            "address": "0xb57c425CEaD6c17ff695E4B7b542a0402ED8A49B",
+            "symbol": "ZDEX",
+            "name": "ZooDex Harmony",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/Testnet-AMM/main/DXZU.png"
+        },
+        {
+            "chainId": 1666700000,
+            "address": "0x8c4de73197bb53e38365c2bD1A406d828bb4d211",
+            "symbol": "DEZU",
+            "name": "DexSwapZoo",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/Testnet-AMM/main/dexZoo.png"
+        },
+        {
+            "name": "xDEXS",
+            "address": "0xe0894dce09dcdf5e9dde4971df38517bc588bd09",
+            "symbol": "xDEXS",
+            "decimals": 18,
+            "chainId": 1666700000,
+            "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/crypto-logo-asset/4c129885788f60e1418eaad3b17dbf94bafeda27/folder/orange.svg"
         }
     ]
 }
